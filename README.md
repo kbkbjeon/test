@@ -2,7 +2,7 @@ test
 
 ## gif 사용
 
-<img width="30%" src="https://user-images.githubusercontent.com/95457388/209028547-89efc221-2666-4e5d-b83f-62490bbfa3b5.gif"/>
+<img width="40%" src="https://user-images.githubusercontent.com/95457388/209028547-89efc221-2666-4e5d-b83f-62490bbfa3b5.gif"/>
 
 ![convertodogif](https://user-images.githubusercontent.com/95457388/209028547-89efc221-2666-4e5d-b83f-62490bbfa3b5.gif)
 
